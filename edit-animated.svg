@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="#6366f1" color="#6366f1" width="128" height="128">
+  <style>
+    .p-pencil {
+      transform-box: view-box;
+      transform-origin: 12px 12px;
+      animation: kf-edit-pencil 1.50s ease-in-out infinite both;
+    }
+    .p-line {
+      animation: kf-edit-line 1.50s ease-in-out infinite both;
+    }
+    @keyframes kf-edit-pencil {
+      0% { transform: translate(-1.6px, 1.6px); }
+      60% { transform: translate(1.6px, -1.6px); }
+      100% { transform: translate(-1.6px, 1.6px); }
+    }
+    @keyframes kf-edit-line {
+      0% { stroke-dashoffset: 1; }
+      0% { stroke-dashoffset: 1; }
+      60% { stroke-dashoffset: 0; }
+      100% { stroke-dashoffset: 0; }
+    }
+  </style>
+  <path d="M16.4 4.2a2.3 2.3 0 0 1 3.4 3.4L8.4 19 3.6 20.4 5 15.6z" class="p-pencil" />
+  <path d="M3.6 20.6h16.8" pathLength="1" stroke-dasharray="1" class="p-line" />
+</svg>
