@@ -1,7 +1,8 @@
 # Proiect-Web 
 ### Laborator 5
 
-#### Hi, I'm Lungu Luca 👋
+#### Hey! 👋
+##### I'm Luca, a 19 years old student from Romania. <img src="edit-animated.svg" width="50" alt="SVG"/>
 
-<img src="edit-animated.svg" width="180" alt="SVG"/>
+### Contact: -luca.lungu@student.usv.ro
 
