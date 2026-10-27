@@ -10,7 +10,7 @@
 
 ## Despre mine
 
-Mă numesc Lungu Luca și sunt student la profilul Calculatoare la Facultatea de Informatică și Electronică din Suceava. Sunt pasionat de programare, tehnologie și de tot ce ține de lumea digitală.
+Mă numesc Lungu Luca și sunt student la profilul Calculatoare la Facultatea de Inginerie Electrică și Știința Calculatoarelor din Suceava. Sunt pasionat de programare, tehnologie și de tot ce ține de lumea digitală.
 
 Îmi place să învăț lucruri noi, să experimentez și să mă dezvolt treptat în domeniul IT. Acest proiect reprezintă un punct de plecare în dezvoltarea mea personală și profesională.
 
